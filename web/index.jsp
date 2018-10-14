@@ -13,5 +13,7 @@
     </head>
     <body>
         <h1>Hello World!</h1>
+        <a href="MainController">Go to Main Controller</a>
+        <a href="TestServlet">Go to Test Controller</a>
     </body>
 </html>
